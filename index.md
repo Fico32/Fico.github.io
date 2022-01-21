@@ -1,4 +1,4 @@
 ## Welcome to a series Mathematical-Inquiries
 
 ### List of explorations:
-[a relative link](Norm.md)
+[Norms, the role they play, and their generalization](Norm.md)

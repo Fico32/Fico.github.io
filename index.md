@@ -1,1 +1,1 @@
-Hello world
+##Welcome to a series of mathematical inquiries

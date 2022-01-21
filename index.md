@@ -1,1 +1,1 @@
-##Welcome to a series of mathematical inquiries
+**Welcome to a series of mathematical inquiries**

@@ -1,4 +1,4 @@
-## Welcome to a series of Mathematical-Inquiries
+## Welcome to my math blog
 
-### List of explorations:
-[Norms, the role they play, and their generalization](Norm.md)
+### Posts
+[fibonacci mod p](Fib.md)

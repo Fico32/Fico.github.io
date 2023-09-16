@@ -4,8 +4,8 @@ List of Lemmas idk if there will be proofs probably only for the non-trivial one
 Definition 1.1 {#definition-1.1 .unnumbered}
 --------------
 
-We define the Fibonacci sequence as the sequence where $$f_0 = 0$$,
-$$f_1 = 1$$ and $$f_n = f_{n-1} + f_{n-2}$$ for all $n \in \mathbb{Z}\$. This
+We define the Fibonacci sequence as the sequence where $f_0 = 0$,
+$f_1 = 1$ and $f_n = f_{n-1} + f_{n-2}$ for all $n \in \mathbb{Z}\$. This
 isn't really a sequence since we've extended the domain to the integers
 but oh well.
 

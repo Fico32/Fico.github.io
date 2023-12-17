@@ -1,10 +1,3 @@
----
-layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-09-16 20:28:36 -0400
-categories: jekyll update
----
-
 List of Lemmas idk if there will be proofs probably only for the non-trivial ones {#list-of-lemmas-idk-if-there-will-be-proofs-probably-only-for-the-non-trivial-ones .unnumbered}
 =================================================================================
 
